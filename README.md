@@ -4,12 +4,12 @@ OASIS INFOBYTE offers a variety of website design and development services. I go
 Virtual Internship Tasks:-
 ## Task1 - Calculator
 A Calculator created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://shiveshmukund.github.io/oasis-infobyte/Level_2/Task_1)
+[Live](https://shiveshmukund.github.io/oibsip_taskno/Level_2/Task_1)
 
 ## Task2 - Tribute Page
 A tribute page created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://shiveshmukund.github.io/oasis-infobyte/Level_2/Task_2)
+[Live](https://shiveshmukund.github.io/oibsip_taskno/Level_2/Task_2)
 
 ## Task3 - Todo webapp
 A TO-DO app created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://shiveshmukund.github.io/oasis-infobyte/Level_2/Task_3)
+[Live](https://shiveshmukund.github.io/oibsip_taskno/Level_2/Task_3)
