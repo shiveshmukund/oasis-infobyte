@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-    width: 40%;
-    min-width: 320px;
+    width: 50%;
+    min-width: 290px;
     position: absolute;
     margin: auto;
     left: 0;
