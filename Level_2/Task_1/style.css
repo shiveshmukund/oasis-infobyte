@@ -3,11 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 html{
     font-family: sans-serif;
 }
-
 .wrapper{
     height: 100vh;
     width: 100%;
@@ -16,7 +14,6 @@ html{
     align-items: center;
     justify-content: center;
 }
-
 .display{
     height: 500px;
     width: 340px;
@@ -30,12 +27,10 @@ html{
     flex-direction: column;
     justify-content: center;
 }
-
 .display table{
     height: 70%;
     width: 100%;
 }
-
 #res{
     box-shadow: 0px 0px 7px 50px rgba(124, 124, 124, 0.041), 0px 150px 20px 8px rgba(255, 255, 255, 0.041);
     background: rgb(255, 249, 246);
@@ -50,7 +45,6 @@ html{
     font-size: 26px;
     overflow-x: auto;
 }
-
 .display table td button{
     cursor: pointer;
     box-shadow: 0px 0px 7px 50px rgba(124, 124, 124, 0.041), 0px 150px 20px 8px rgba(255, 255, 255, 0.041);
@@ -63,12 +57,10 @@ html{
     width: 70px;
     margin: 3px;
 }
-
 .display table td button:hover{
     background: rgba(255, 255, 255, 0.267);
     color: rgb(207, 215, 231);
 }
-
 .head{
     font-size: 40px;
     color:rgb(255, 249, 246);
